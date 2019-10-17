@@ -1,2 +1,8 @@
-# terraform_class_0
-Starter code for learning terraform - part 0
+# Terraform Part 0
+Starter code for learning terraform.
+
+I created this started code for those who want to learn Terraform.
+
+
+## Instructions
+Follow all inline TODOs.
